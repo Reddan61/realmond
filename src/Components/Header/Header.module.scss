@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+
+  background-color: #222222;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: var(--container-width);
+}
